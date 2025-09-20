@@ -1,3 +1,5 @@
 Dòng 1: Hello GitHub
 Dòng 2: Thực hành commit trực tiếp
 Dòng 3: Test online file
+Dòng 4: Thêm nội dung tại local
+Dòng 5: Kiểm tra đồng bộ với remote
