@@ -6,6 +6,8 @@ Kế hoạch học tập trong 1 tuần:
 - Ngày 5: Thực hành tạo conflict và giải quyết.
 - Ngày 6: Tổng hợp lại các lệnh quan trọng.
 - Ngày 7: Làm bài kiểm tra nhỏ.
+- Ôn tập Git nâng cao
+- Học về stash vả reset
 Ngày bắt đầu: 21/09/2025
 Ngày kết thúc: 27/09/2025
 
