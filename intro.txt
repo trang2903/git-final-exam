@@ -1,0 +1,15 @@
+Giới thiệu cá nhân:
+Tôi là Nguyễn Quỳnh Thảo Trang, MSSV: 222388.
+Hiện đang học ngành CNTT.
+Tôi yêu thích công nghệ và thích làm việc nhóm.
+Mục tiêu của tôi là trở thành lập trình viên giỏi.
+
+Sở thích:
+- Đọc sách
+- Nghe nhạc
+- Du lịch
+
+Kỹ năng:
+- Lập trình Java
+- Git & GitHub
+- Làm việc nhóm
