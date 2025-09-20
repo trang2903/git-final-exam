@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý bài tập
+1. Cho phép thêm bài tập
+2. Cho phép xoá bài tập
+3. Theo dõi tiến độ học tập
+4. Báo cáo tổng kết hằng tuần
+5. Đồng bộ dữ liệu với GitHub
